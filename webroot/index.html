@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>秋云---享受云不一样的云</title>
+    <link rel="icon" href="website/html/image/autumn.ico">
+    <link rel="stylesheet" href="website/html/css/index.css"/>
+    <link rel="stylesheet" href="website/html/css/checking.css">
+    <script rel="script" src="website/html/js/jquery-2.1.0.min.js"></script>
+    <script rel="script" src="website/html/js/jquery.md5.js"></script>
+    <script rel="script" src="website/html/js/checking.js"></script>
+    <script rel="script" src="website/html/js/index.js"></script>
+    <script>
+        $(document).ready(function(){
+            $.idcode.setCode();
+        });
+    </script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="note-line"></div>
+        <div class="login-out">
+            <div class="aperture"></div>
+        </div>
+        <div class="login"><a>LOGIN</a></div>
+        <div class="user-pass">
+            <div class="username"><input type="text" name="username" placeholder="用户名"/></div>
+            <div class="password"><input type="password" name="password" placeholder="密码"/></div>
+            <div class="checking"><span id="idcode"></span></div>
+            <div class="auto-pass">
+                <label for="rember-pass">
+                    <input type="checkbox" id="rember-pass"/>自动登录
+                </label>
+                <span>忘记密码?</span>
+            </div>
+            <div class="submit-reg">
+                <button class="submit">登录</button>
+                <button class="register">注册</button>
+            </div>
+        </div>
+        <!--<div class="footer">-->
+            <!--<span>版权所有：一江秋水</span>-->
+        <!--</div>-->
+    </div>
+</body>
+</html>

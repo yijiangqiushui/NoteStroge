@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>用户注册</title>
+    <link rel="icon" href="../image/autumn.ico">
+    <link rel="stylesheet" href="../css/register.css"/>
+    <script rel="script" src="../js/jquery-2.1.0.min.js"></script>
+    <script rel="script" src="../js/jquery.md5.js"></script>
+    <script rel="script" src="../js/register.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <div class="title">
+                <img src="../image/autumn.png" alt="软件图标"/>
+                <span>秋云，享受不一样的云</span>
+            </div>
+            <div class="had-account">
+                <span>已有账户？去<a href="../../../index.html">登录</a></span>
+            </div>
+        </div>
+        <div class="main">
+            <div class="main-in">
+                <label for="username">账号：</label><input type="text" id="username" name="username" placeholder="帐号须由6-18个字符组成" correct="0"/><br>
+                <label for="password">密码：</label><input type="password" id="password" name="password" correct="0"/><br>
+                <label for="re-password">确认密码：</label><input type="password" id="re-password" name="re-password" correct="0"/><br>
+                <label for="phone">手机号：</label><input type="text" id="phone" name="mobile" correct="0"/><br>
+                <div class="check-code-out">
+                    <label for="checking-code">短信验证码：</label><input type="text" id="checking-code" name="checkingCode" correct="0"/>
+                    <button id="get-code" class="get-code" >免费获取</button><br>
+                </div>
+                <button class="register">注册</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

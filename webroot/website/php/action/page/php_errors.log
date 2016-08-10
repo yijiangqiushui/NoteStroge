@@ -1,0 +1,40 @@
+[31-May-2016 20:54:47] PHP Catchable fatal error:  Object of class DB could not be converted to string in D:\NoteStroge\webroot\website\php\action\page\register_sql.php on line 11
+[31-May-2016 21:28:21] PHP Fatal error:  Call to private DB::__construct() from invalid context in D:\NoteStroge\webroot\website\php\action\page\register_sql.php on line 10
+[31-May-2016 21:28:42] PHP Fatal error:  Call to private DB::__construct() from invalid context in D:\NoteStroge\webroot\website\php\action\page\register_sql.php on line 10
+[31-May-2016 21:29:13] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 16
+[31-May-2016 21:29:51] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 17
+[31-May-2016 21:33:39] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 17
+[31-May-2016 21:34:35] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 16
+[31-May-2016 21:35:29] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 16
+[31-May-2016 21:35:47] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 16
+[31-May-2016 21:38:00] PHP Fatal error:  Cannot access empty property in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 76
+[31-May-2016 21:40:52] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 23
+[31-May-2016 21:42:07] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 81
+[04-Jun-2016 13:57:53] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 13:57:54] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 13:59:55] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:01:59] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:03:24] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:08] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:11] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:12] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:13] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:13] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:13] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:13] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:05:21] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:06:21] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:06:34] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:06:34] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:06:34] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:06:34] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:07:30] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:10:35] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in D:\NoteStroge\webroot\website\php\action\class\db.cls.php on line 56
+[04-Jun-2016 14:44:38] PHP Fatal error:  Cannot use object of type stdClass as array in D:\NoteStroge\webroot\website\php\action\page\checkLogin.php on line 19
+[04-Jun-2016 14:45:56] PHP Fatal error:  Cannot use object of type stdClass as array in D:\NoteStroge\webroot\website\php\action\page\checkLogin.php on line 19
+[04-Jun-2016 14:48:32] PHP Fatal error:  Cannot use object of type stdClass as array in D:\NoteStroge\webroot\website\php\action\page\checkLogin.php on line 19
